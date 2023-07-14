@@ -1,0 +1,8 @@
+E:\C#\Exercises\Al\Al\bin\Debug\Al.exe.config
+E:\C#\Exercises\Al\Al\bin\Debug\Al.exe
+E:\C#\Exercises\Al\Al\bin\Debug\Al.pdb
+E:\C#\Exercises\Al\Al\obj\Debug\Al.csproj.AssemblyReference.cache
+E:\C#\Exercises\Al\Al\obj\Debug\Al.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\Al\Al\obj\Debug\Al.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\Al\Al\obj\Debug\Al.exe
+E:\C#\Exercises\Al\Al\obj\Debug\Al.pdb
